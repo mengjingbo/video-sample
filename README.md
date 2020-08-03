@@ -9,7 +9,7 @@ ExoPlayer是Google开源的一款Android应用程序级的媒体播放器。它�
 ---
 
 ## 效果
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200731202822289.gif)
+![在这里插入图片描述](https://github.com/mengjingbo/video-sample/blob/master/screenshot/20200731202822289.gif)
 
 ## ExoPlayer使用
 添加ExoPlayer与AndroidVideoCache依赖，我这边使用的是ExoPlayer v2.10.5和AndroidVideoCache v2.7.1版本，可根据自身需求升级或降级。
